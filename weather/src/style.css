@@ -74,7 +74,7 @@ input, button {
   transition: var(--tr) ease-in-out;
 }
 
-.weather-bg__img.bg {
+.weather .weather-bg__img.bg {
   opacity: 1;
 }
 
