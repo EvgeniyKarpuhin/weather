@@ -20,7 +20,10 @@
 
     <div class="weather_bg">
       <div>
-        <img src="" alt="">
+        <img class="weather-bg__img bg" src="./assets/Planets_Earth_545691_3840x2400.jpg" alt="App Background">
+        <img class="weather-bg overcast" src="./assets/storm-clouds_1122-2848.jpg" alt="Overcast">
+        <img class="weather-bg partly-cloudy" src="./assets/oblachnost.jpg" alt="Partly Cloudy">
+        <img class="weather-bg sunny" src="./assets/article_38454.jpg" alt="Sunny">
       </div>
     </div>
   </div>
