@@ -8,6 +8,8 @@
         <button class="weather-form__btn">Search</button>
       </div>
 
+      <div class="card weather-load">Loading...</div>
+
       <div class="weather-info">
         <div class="weather-info__text">
           <p class="card">Kiev</p>
