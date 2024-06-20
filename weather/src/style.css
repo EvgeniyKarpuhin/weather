@@ -157,3 +157,22 @@ input, button {
 .weather-form__btn:hover {
   background-color: var(--accent);
 }
+
+.weather-form,
+.weather-load,
+.weather-info {
+  grid-column: 1 / 4;
+}
+
+.weather-load {
+  display: flex;
+  align-items: center;
+  height: 87px;
+}
+
+.weather-info__text {
+  display: grid;
+  grid-template-columns: 1fr auto auto;
+  gap: 20px;
+  font-size: 40px;
+}
